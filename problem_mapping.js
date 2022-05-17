@@ -10,7 +10,7 @@ problem_mapping = {
                 "total": 10001
             },
             "Python: count_bits.py": {
-                "passed": 0,
+                "passed": 10001,
                 "total": 10001
             }
         },
@@ -24,7 +24,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: parity.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -38,7 +38,7 @@ problem_mapping = {
                 "total": 10001
             },
             "Python: swap_bits.py": {
-                "passed": 0,
+                "passed": 10001,
                 "total": 10001
             }
         },
@@ -52,7 +52,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: reverse_bits.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -65,8 +65,8 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
-                "passed": 0,
+            "Python: closest_int_same_weight.py": {
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -80,7 +80,7 @@ problem_mapping = {
                 "total": 10006
             },
             "Python: primitive_multiply.py": {
-                "passed": 0,
+                "passed": 10006,
                 "total": 10006
             }
         },
@@ -94,7 +94,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: primitive_divide.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -108,7 +108,7 @@ problem_mapping = {
                 "total": 10002
             },
             "Python: power_x_y.py": {
-                "passed": 0,
+                "passed": 10002,
                 "total": 10002
             }
         },
@@ -122,7 +122,7 @@ problem_mapping = {
                 "total": 19952
             },
             "Python: reverse_digits.py": {
-                "passed": 0,
+                "passed": 19952,
                 "total": 19952
             }
         },
@@ -136,7 +136,7 @@ problem_mapping = {
                 "total": 20000
             },
             "Python: is_number_palindromic.py": {
-                "passed": 0,
+                "passed": 20000,
                 "total": 20000
             }
         },
@@ -150,7 +150,7 @@ problem_mapping = {
                 "total": 7
             },
             "Python: uniform_random_number.py": {
-                "passed": 0,
+                "passed": 7,
                 "total": 7
             }
         },

@@ -1,4 +1,5 @@
 import collections
+from turtle import width
 
 from test_framework import generic_test
 from test_framework.test_failure import PropertyName
@@ -7,7 +8,9 @@ Rect = collections.namedtuple('Rect', ('x', 'y', 'width', 'height'))
 
 
 def intersect_rectangle(r1: Rect, r2: Rect) -> Rect:
-    # TODO - you fill in here.
+    def is_intersect(R1, R2):
+        return (R1.x <= R2.x + R2.width and R2.x <= R1.x + R1.width 
+                and R1.y <= R2.y + R2.height and R2.y <= R1.y + R1.height)
     return Rect(0, 0, 0, 0)
 
 

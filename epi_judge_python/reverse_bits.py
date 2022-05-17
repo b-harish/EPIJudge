@@ -2,8 +2,14 @@ from test_framework import generic_test
 
 
 def reverse_bits(x: int) -> int:
-    # TODO - you fill in here.
-    return 0
+    NUM_BITS = 64
+    result = 0
+    for _ in range(NUM_BITS):
+        lsb = x & 1
+        x = x >> 1
+        result = result << 1
+        result = result | lsb
+    return result
 
 
 if __name__ == '__main__':
