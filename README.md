@@ -2,7 +2,7 @@
 
 Forked Repo to practice problems described in [Elements of Programming Interviews](https://elementsofprogramminginterviews.com/) Book.
 
-README.md is updated so that it won't be same as the original repo. Using this repo for my own practice of problems.
+README.md is updated so that it won't be same as the original repo. **Removed problem folders in C++ and Java since I practice only in Python**. Using this repo for my own practice of problems.
 
 Here's the repo from which I forked this project. [EPIJudge](https://github.com/adnanaziz/EPIJudge).
 
