@@ -264,7 +264,7 @@ problem_mapping = {
                 "total": 402
             },
             "Python: buy_and_sell_stock.py": {
-                "passed": 0,
+                "passed": 402,
                 "total": 402
             }
         },
